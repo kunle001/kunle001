@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Oluwole
 - 👀 Software Engineering and Data Science
 - 🌱 Machine learning, Software Engineering(Flutter)
-- 💞️ I’m looking to collaborate on Artificial intelligence projects, Deep neural Networks(DNN),computer vision(RNN), NLPs, Android and Flutter Devs
+- 💞️ I’m looking to collaborate on Artificial intelligence projects, Deep neural Networks(DNN),computer vision(RNN), NLPs, Android and Flutter Developments. 
 - i have worked on several mini projects partaining machine learning implementations and data science, i am highly interested in NLP and looking foward to building my own models and applying them in my softwares.
-- i look forward to working with a large team, to improve my exposure and help me learn more from the pros😇
-- when i'm not working, i am playing FIFA 😉
+- i have collaborated on small projects and looking forward to working with a larger team and larger projects.
+- i am motivated to learn new technologies. 
+- when i'm not working, i am playing FIFA😉
 - 📫 How to reach me https://www.linkedin.com/in/kunle-olanipekun-555764225/
 
 <!---
