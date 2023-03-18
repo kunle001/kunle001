@@ -10,9 +10,9 @@ As a software engineer and data scientist, I have a diverse range of skills and 
 
 I have worked on a card fraud detector model which is able to detect fraudulent act on a card, using my Machine learning and software engineering skill. you can check it out on : https://cardfraud.herokuapp.com/ 💳🕵️‍♂️
 
-I have also build several Functioning REST Api's, with complex functionalities, amongst is an apartment finding and rentage api, you can check it out here: github.com/kunle001/mooveX, also an Onliine Language School: github.com/kunle001/OXLS. 🏢👨‍🎓
+I have also build several Functioning REST Api's, with complex functionalities, amongst is an apartment finding and rentage api, you can check it out here: https://github.com/kunle001/mooveX, also an Onliine Language School: https://github.com/kunle001/OXLS. 🏢👨‍🎓
 
-As a Database Administrator and Backend Developer, I collaborated with a team of three Engineers to create maveenfleet.co.uk, a dynamic platform for recruiting and mentoring individuals interested in the tech industry. Through my expertise in database administration and website design, I helped deliver a seamless user experience and drive positive outcomes for our users. 💼🌐
+As a Database Administrator and Backend Developer, I collaborated with a team of three Engineers to create https://maveenfleet.co.uk, a dynamic platform for recruiting and mentoring individuals interested in the tech industry. Through my expertise in database administration and website design, I helped deliver a seamless user experience and drive positive outcomes for our users. 💼🌐
 
 As a Data Scientist mentor at a leading tech institute, I have extensive experience teaching both Data Science 1 and Data Science 2. In these courses, I cover everything from Python programming and Data Visualization to advanced machine learning models like Random Forest and Artificial Neural Networks. My approach to mentorship emphasizes practical application, teaching students how to build scalable models and deploy them to production. I foster a collaborative and inclusive learning environment, where students can develop both technical and interpersonal skills necessary to succeed in the data science industry. 👨‍🏫💡
 
