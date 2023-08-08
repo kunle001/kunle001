@@ -14,7 +14,7 @@ Take a look at my GitHub highlights:
 
 3. Real-Time Chat App 💬: Ever wanted to chat in real-time? I've got you covered with a slick socket.io-powered chat app: [Chat Now](https://github.com/kunle001/chat-now)
 
-4. Ticket Marketplace 🎫: Score hard-to-find tickets with my microservice-driven app. Scalability? You bet! [Ticket Marketplace](https://github.com/kunle001/ticket-marketplace)
+4. Ticket Marketplace 🎫: Score hard-to-find tickets with my microservice-driven app. Scalability? You bet! [Ticket Marketplace](https://github.com/kunle001/ticketting)
 
 5. Functioning REST APIs 🏢: I've whipped up cool APIs, from apartment hunting to online language schooling. Peek at them here: [Apartment Finder API](https://github.com/kunle001/mooveX), [Online Language School API](https://github.com/kunle001/oxford)
 
