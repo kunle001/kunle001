@@ -4,7 +4,7 @@ Hey there, I'm Oluwole, a software engineer and data scientist with a knack for 
 📚 Tools: TensorFlow, Sklearn, Keras, PyTorch, Flask, React, Django, node.js, Express.js
 💻 Extras: Git, Jupyter Notebook, VS Code, Android Studio
 
-My standout talents? I excel at both machine learning and creating the technical backbone of software. I have a knack for simplifying intricate concepts and making data come alive. I've also crafted some impressive projects focused on understanding and working with human language. 💪
+My standout talents? I excel at both machine learning and creating the technical backend of software. I have a knack for simplifying intricate concepts and making data come alive. I've also crafted some impressive projects focused on understanding and working with human language. 💪
 
 Take a look at my GitHub highlights:
 
