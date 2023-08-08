@@ -18,7 +18,7 @@ Take a look at my GitHub highlights:
 
 5. Functioning REST APIs 🏢: I've whipped up cool APIs, from apartment hunting to online language schooling. Peek at them here: [Apartment Finder API](https://github.com/kunle001/mooveX), [Online Language School API](https://github.com/kunle001/oxford)
 
-Behind the scenes, I've been the magic behind [MavenFleet.co.uk](https://mavenfleet.co.uk), an ingenious platform helping tech enthusiasts kickstart their journeys.
+In the background (Backend), I've been the driving force behind [MavenFleet.co.uk](https://mavenfleet.co.uk), a visionary platform that empowers tech enthusiasts to embark on their journeys. As the backend developer, I collaborated closely with two frontend engineers to bring this project to life.
 
 Teaching is my jam too! I've mentored in Data Science, guiding students through the exciting world of Python, data visualization, and powerful machine learning. Hands-on is my motto, preparing them for the data science realm.
 
