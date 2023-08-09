@@ -12,7 +12,7 @@ Take a look at my GitHub highlights:
 
 2. Rain Predictor ☔: I built an app that predicts weather conditions with 95% accuracy. Want to stay dry? Have a look here: [Rain Predictor](https://github.com/kunle001/Rain-Predictor)
 
-3. Real-Time Chat App 💬: Ever wanted to chat in real-time? I've got you covered with a slick socket.io-powered chat app: [Chat Now](https://github.com/kunle001/chat-now)
+3. Real-Time Chat App 💬: Ever wanted to chat in real-time? I've got you covered with a slick socket.io-powered chat app: [Chat Now](https://github.com/kunle001/chat-bot)
 
 4. Ticket Marketplace 🎫: Score hard-to-find tickets with my microservice-driven app. Scalability? You bet! [Ticket Marketplace](https://github.com/kunle001/ticketting)
 
