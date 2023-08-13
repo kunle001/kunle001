@@ -26,4 +26,4 @@ I'm all about breaking tech boundaries and tackling real-world puzzles. Whether 
 
 Wanna chat or collaborate? Reach out on [LinkedIn](https://www.linkedin.com/in/kunle-olanipekun-555764225/) or shoot me an email: adekunle.olanipekun.ko@gmail.com.
 
-And hey, if you're curious about my full story, you can check out my CV [here](https://fonetohome.s3.amazonaws.com/AdekunleOlanipekun.pdf)! Catch you around! 😊
+And hey, if you're curious about my full story, you can check out my CV [here](https://fonetohome.s3.amazonaws.com/blue+professional+modern+CV+resume+(3).pdf)! Catch you around! 😊
