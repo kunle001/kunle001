@@ -1,10 +1,10 @@
-# Hey there, I'm Oluwole! 👋
+### Hey there, I'm Oluwole! 👋
 
 I'm a versatile software engineer and data scientist who thrives on turning ideas into reality. With a passion for crafting intelligent solutions and staying at the forefront of tech trends, I'm here to showcase what I bring to the table:
 
 ## What I'm Skilled In 🛠️
 
-My strong suit lies in **Node.js** and **Express**, where I excel in building APIs that are both efficient and scalable. I'm a pro at creating seamless CI/CD pipelines for development and production environments. AWS is my playground, and I love utilizing its suite of products - from hosting Docker images on **Elastic Container Repository** to leveraging **EC2** and **S3** for efficient file management. AWS just resonates with me.
+My strong suit lies in **Node.js** and **Express**, where I excel in building APIs that are both efficient and scalable. I create seamless CI/CD pipelines for development and production environments. AWS is my playground, and I love utilizing its suite of products - from hosting Docker images on **Elastic Container Repository** to leveraging **EC2** and **S3** for efficient file management. AWS just resonates with me.
 
 But my journey doesn't stop at backend development. I've embraced frontend technologies, too. My recent project, **foneToHome**, addresses apartment-finding challenges in Lagos. I've dived into the world of **React.js** for the frontend, while my backend skills with **Express** and **Node.js** power the platform. The integration of various business logic ensures a seamless user experience.
 Anticipate This as it goes live Soon!!!!
