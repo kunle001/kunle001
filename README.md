@@ -4,7 +4,9 @@ I'm a versatile software engineer and data scientist who thrives on turning idea
 
 ## What I'm Skilled In 🛠️
 
-My strong suit lies in **Node.js** and **Express**, where I excel in building APIs that are both efficient and scalable. I create seamless CI/CD pipelines for development and production environments. AWS is my playground, and I love utilizing its suite of products - from hosting Docker images on **Elastic Container Repository** to leveraging **EC2** and **S3** for efficient file management. AWS just resonates with me.
+My strong suit lies in **Node.js** and **Express**, where I excel in building APIs that are both efficient and scalable. I create seamless CI/CD pipelines for development and production environments. AWS is my playground, and I love utilizing its suite of products - from hosting Docker images on **Elastic Container Repository** to leveraging **EC2** and **S3** for efficient file management. AWS just resonates with me, i also use kubernetes for my deployment orchestrations where i manage load balancing, and manage my applications making them scalable and efficient. 
+
+
 
 But my journey doesn't stop at backend development. I've embraced frontend technologies, too. My recent project, **foneToHome**, addresses apartment-finding challenges in Lagos. I've dived into the world of **React.js** for the frontend, while my backend skills with **Express** and **Node.js** power the platform. The integration of various business logic ensures a seamless user experience.
 Anticipate This as it goes live Soon!!!!
@@ -14,6 +16,7 @@ Anticipate This as it goes live Soon!!!!
 - **Languages:** Python, JavaScript | TypeScript
 - **Tools:** Node.js, Express.js, Docker, Kubernetes, AWS, Flask, React, Django
 - **Extras:** Git, Jupyter Notebook, VS Code, Android Studio
+- NatsWrapper and RabbitMQ
 
 ## What Sets Me Apart 💪
 
@@ -21,11 +24,10 @@ My proficiency extends to both **machine learning** and **backend development**,
 
 ### Explore My GitHub Highlights:
 
-1. **Card Fraud Detector** 🕵️‍♂️: Check out my model that detects fraudulent transactions - [Card Fraud Detector](https://github.com/kunle001/card-fraud)
-2. **Rain Predictor** ☔: Experience my app predicting weather conditions with 95% accuracy - [Rain Predictor](https://github.com/kunle001/Rain-Predictor)
-3. **Real-Time Chat App** 💬: Engage in real-time conversations through my socket.io-powered chat app - [Chat Now](https://github.com/kunle001/chat-bot)
-4. **Ticket Marketplace** 🎫: Witness my microservice-driven app for securing hard-to-find tickets - [Ticket Marketplace](https://github.com/kunle001/ticketting)
-5. **Functioning REST APIs** 🏢: Dive into my APIs, covering everything from apartment hunting to online language schooling - [Apartment Finder API](https://github.com/kunle001/mooveX), [Online Language School API](https://github.com/kunle001/oxford)
+1. **Ticket Marketplace** 🎫: Witness my microservice-driven app for securing hard-to-find tickets - [Ticket Marketplace](https://github.com/kunle001/ticketting)
+2. **Socialize** 🎫:  microservice-driven app for posting commenting and liking, for userinteractions - [Socialize](https://github.com/kunle001/socialize)
+3. **Real-Time Chat App** 💬: Engage in real-time conversations through my socket.io-powered chat app - [Chat App](https://github.com/kunle001/chat-bot)
+4. **Functioning REST APIs** 🏢: Dive into my APIs, covering everything from apartment hunting to online language schooling - [Apartment Finder API](https://github.com/kunle001/mooveX), [Online Language School API](https://github.com/kunle001/oxford)
 
 ## My Impactful Ventures 👨‍💻
 
