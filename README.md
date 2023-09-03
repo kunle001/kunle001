@@ -30,6 +30,9 @@ In the backend realm, I've been a driving force behind [MavenFleet.co.uk](https:
 
 Teaching is also a passion of mine. As a Data Science mentor, I guide students through Python, data visualization, and robust machine learning practices, emphasizing hands-on learning to prepare them for the world of data science.
 
+I had the pleasure of collaborating with a talented team of engineers to bring to life [poem.cards](https://poem.cards), a dynamic platform designed for writers and poetry enthusiasts. Our vision is to foster collaboration among writers, connecting individuals from across the globe to share their creative ideas through the medium of poetry and fiction.
+We're excited to announce that the platform will be launching fully in just three months! As we gear up for this exciting milestone, we invite you to be one of our inaugural users. Explore the world of creativity, connect with like-minded individuals, and embark on a poetic journey with us at [poem.cards](https://poem.cards). Don't miss out on the opportunity to be among the first to experience it!
+
 ## Let's Collaborate! 🤝
 
 I'm all about breaking tech boundaries and solving real-world puzzles. Whether it's crafting cutting-edge recommender systems or elegant software solutions, I'm up for any challenge. Let's connect and collaborate:
