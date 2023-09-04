@@ -40,4 +40,4 @@ I'm all about breaking tech boundaries and solving real-world puzzles. Whether i
 - [LinkedIn](https://www.linkedin.com/in/kunle-olanipekun-555764225/)
 - Email: adekunle.olanipekun.ko@gmail.com
 
-Curious about my full journey? Check out my  [CV](https://fonetohome.s3.amazonaws.com/blue+professional+modern+CV+resume+(3).pdf). Catch you around! 😊
+Curious about my full journey? Check out my  [CV](https://kunle-cv.s3.amazonaws.com/ADEKUNLE.pdf). Catch you around! 😊
