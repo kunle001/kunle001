@@ -9,7 +9,7 @@ But my journey extends beyond backend development. I've embraced frontend techno
 
 ## Toolbox 🧰
 
-- **Languages:** Python, JavaScript | TypeScript
+- **Languages:** Python | TypeScript | Golang
 - **Tools:** Node.js, Express.js, Docker, Kubernetes, AWS, Flask, React, Django
 - **Extras:** Git, Jupyter Notebook, VS Code, Android Studio, NatsWrapper, RabbitMQ
 
