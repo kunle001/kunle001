@@ -9,7 +9,7 @@ Specializing in robust backend development, I craft reliable REST APIs using Nod
 ## Toolbox 🧰
 
 - **Languages:** TypeScript | Golang
-- **Tools:** Node.js, Express.js, Docker, Kubernetes, AWS, Chi, Gin
+- **Tools:** Node.js, Express.js, Docker, Kubernetes, AWS, Go-Chi, Go-Gin
 
 ## Let's Collaborate! 🤝
 
