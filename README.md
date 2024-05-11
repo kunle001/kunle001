@@ -6,7 +6,7 @@ Specializing in robust backend development, I craft reliable REST APIs using Nod
  I deploy on Azure and Aws, leveraging services like Elastic Container Repository, EC2, and S3, EKS, AKS(Azure kubernetes services), ACS(Azure container services) to amplify my DevOps prowess, I also specialize in creating seamless Continous integration and Deployment CI/CD pipelines with Azure Devops and Github Actions.
 
 
-## Toolbox 🧰
+### Toolbox 🧰
 
 - **Languages:** TypeScript | Golang
 - **Tools:** Node.js, Express.js, Docker, Kubernetes, AWS, Go-Chi, Go-Gin
