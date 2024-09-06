@@ -15,4 +15,4 @@ Specializing in robust backend development, I craft reliable REST APIs using Nod
 
 Breaking tech boundaries and solving real-world puzzles? I'm in! Connect with me on [LinkedIn](https://www.linkedin.com/in/kunle-olanipekun-555764225/) or drop me an email at adekunle.olanipekun.ko@gmail.com.
 
-Curious about my full journey? Check out my [Portfolio website](https://kunle.my.canva.site/kunle). Let's innovate together! 😊
+Curious about my full journey? Check out my [Resume]([https://kunle.my.canva.site/kunle](https://phonethbucket.s3.amazonaws.com/ResumeIV.pdf)). Let's innovate together! 😊
